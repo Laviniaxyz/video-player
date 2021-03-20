@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/video-player/static/css/main.e86e431e.chunk.css",
+    "main.js": "/video-player/static/js/main.23bea933.chunk.js",
+    "main.js.map": "/video-player/static/js/main.23bea933.chunk.js.map",
+    "runtime-main.js": "/video-player/static/js/runtime-main.69ccde39.js",
+    "runtime-main.js.map": "/video-player/static/js/runtime-main.69ccde39.js.map",
+    "static/js/2.4ecbb636.chunk.js": "/video-player/static/js/2.4ecbb636.chunk.js",
+    "static/js/2.4ecbb636.chunk.js.map": "/video-player/static/js/2.4ecbb636.chunk.js.map",
+    "static/js/3.165fe667.chunk.js": "/video-player/static/js/3.165fe667.chunk.js",
+    "static/js/3.165fe667.chunk.js.map": "/video-player/static/js/3.165fe667.chunk.js.map",
+    "index.html": "/video-player/index.html",
+    "static/css/main.e86e431e.chunk.css.map": "/video-player/static/css/main.e86e431e.chunk.css.map",
+    "static/js/2.4ecbb636.chunk.js.LICENSE.txt": "/video-player/static/js/2.4ecbb636.chunk.js.LICENSE.txt",
+    "static/media/Kamua.05a70e49.mp4": "/video-player/static/media/Kamua.05a70e49.mp4",
+    "static/media/pause_white.11aad2d7.svg": "/video-player/static/media/pause_white.11aad2d7.svg",
+    "static/media/play_arrow_white.2df57c2f.svg": "/video-player/static/media/play_arrow_white.2df57c2f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69ccde39.js",
+    "static/js/2.4ecbb636.chunk.js",
+    "static/css/main.e86e431e.chunk.css",
+    "static/js/main.23bea933.chunk.js"
+  ]
+}
